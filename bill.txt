@@ -1,0 +1,189 @@
+
+ID:1, Client:10, Date: Tue May 17 21:53:46 EEST 2022
+Ordered: 
+	Clementine  1$
+	Pepene  1$
+Total: 2$
+
+ID:2, Client:10, Date: Tue May 17 21:53:55 EEST 2022
+Ordered: 
+	Pepene  1$
+Total: 1$
+
+ID:3, Client:10, Date: Tue May 17 21:55:43 EEST 2022
+Ordered: 
+	Clementine  1$
+Total: 1$
+
+ID:4, Client:10, Date: Tue May 17 21:55:48 EEST 2022
+Ordered: 
+	Avocado  1$
+Total: 1$
+
+ID:5, Client:10, Date: Tue May 17 21:55:59 EEST 2022
+Ordered: 
+	Avocado  1$
+	Avocado  1$
+	Avocado  1$
+Total: 3$
+
+ID:6, Client:6, Date: Tue May 17 22:39:12 EEST 2022
+Ordered: 
+	Clementine  1$
+Total: 1$
+
+ID:7, Client:6, Date: Tue May 17 22:39:14 EEST 2022
+Ordered: 
+	Clementine  1$
+Total: 1$
+
+ID:8, Client:7, Date: Tue May 17 23:07:16 EEST 2022
+Ordered: 
+	Scump  110$
+Total: 110$
+
+ID:9, Client:7, Date: Tue May 17 23:07:53 EEST 2022
+Ordered: 
+	Scump  110$
+Total: 110$
+
+ID:10, Client:7, Date: Tue May 17 23:07:55 EEST 2022
+Ordered: 
+	Scump  110$
+Total: 110$
+
+ID:11, Client:7, Date: Tue May 17 23:07:58 EEST 2022
+Ordered: 
+	Scump  110$
+Total: 110$
+
+ID:12, Client:6, Date: Tue May 17 23:08:51 EEST 2022
+Ordered: 
+	Scump  110$
+	Scump  110$
+	Scump  110$
+	Scump  110$
+Total: 440$
+
+ID:13, Client:6, Date: Tue May 17 23:09:28 EEST 2022
+Ordered: 
+	Scump  110$
+Total: 110$
+
+ID:14, Client:6, Date: Tue May 17 23:09:32 EEST 2022
+Ordered: 
+	Scump  110$
+	Scump  110$
+Total: 220$
+
+ID:15, Client:6, Date: Tue May 17 23:09:34 EEST 2022
+Ordered: 
+	Scump  110$
+	Scump  110$
+Total: 220$
+
+ID:16, Client:10, Date: Wed May 18 00:13:50 EEST 2022
+Ordered: 
+	Cilantro-Tomato Salsa   32$
+	Cauliflower-Leek Purée   13$
+	Red and Green Tomato Salsa   38$
+	The Original Three-Ingredient Rub   47$
+Total: 130$
+
+ID:1, Client:10, Date: Wed May 18 00:17:19 EEST 2022
+Ordered: 
+	Barbecued Shrimp   71$
+	Cilantro-Tomato Salsa   32$
+	Cauliflower-Leek Purée   13$
+Total: 116$
+
+ID:2, Client:10, Date: Wed May 18 00:17:23 EEST 2022
+Ordered: 
+	Barbecued Shrimp   71$
+	Cilantro-Tomato Salsa   32$
+	Cauliflower-Leek Purée   13$
+Total: 116$
+
+ID:3, Client:10, Date: Wed May 18 00:17:31 EEST 2022
+Ordered: 
+	Beef Stock   96$
+	"Endive ""Spoons"" with Lemon-Herb Goat Cheese "  50$
+	Toasted Corn Crisps   66$
+Total: 212$
+
+ID:4, Client:10, Date: Wed May 18 00:17:41 EEST 2022
+Ordered: 
+	Shrimp Sates with Spiced Pistachio Chutney   78$
+	Coriander-Herb Spice Rub   51$
+	Arugula Salad with Heirloom Tomatoes and Red Onion   21$
+Total: 150$
+
+ID:5, Client:10, Date: Wed May 18 00:17:43 EEST 2022
+Ordered: 
+	Shrimp Sates with Spiced Pistachio Chutney   78$
+	Coriander-Herb Spice Rub   51$
+	Arugula Salad with Heirloom Tomatoes and Red Onion   21$
+Total: 150$
+
+ID:6, Client:10, Date: Wed May 18 00:17:45 EEST 2022
+Ordered: 
+	Shrimp Sates with Spiced Pistachio Chutney   78$
+	Coriander-Herb Spice Rub   51$
+	Arugula Salad with Heirloom Tomatoes and Red Onion   21$
+Total: 150$
+
+ID:7, Client:6, Date: Wed May 18 00:18:18 EEST 2022
+Ordered: 
+	Turkey Stock   58$
+	Anchovy Toasts   10$
+	Chicken Stock   12$
+Total: 80$
+
+ID:8, Client:7, Date: Wed May 18 00:18:41 EEST 2022
+Ordered: 
+	Arugula Salad with Heirloom Tomatoes and Red Onion   21$
+	Beef Stock   26$
+	Beef Stock   96$
+	"Endive ""Spoons"" with Lemon-Herb Goat Cheese "  50$
+Total: 193$
+
+ID:9, Client:6, Date: Wed May 18 15:32:32 EEST 2022
+Ordered: 
+	Barbecued Shrimp   71$
+	Cilantro-Tomato Salsa   32$
+	Cauliflower-Leek Purée   13$
+	Red and Green Tomato Salsa   38$
+	The Original Three-Ingredient Rub   47$
+	Cilantro-Tomato Salsa   19$
+	Shrimp Sates with Spiced Pistachio Chutney   78$
+	Coriander-Herb Spice Rub   51$
+	Arugula Salad with Heirloom Tomatoes and Red Onion   21$
+	Almond Dacquoise with Strawberry Ice Cream   11$
+	Dairy-Free Lemon Crèmes With Oat-Thyme Crumble   15$
+	Orange Date-Nut Diamonds   19$
+Total: 415$
+
+ID:10, Client:6, Date: Wed May 18 16:02:09 EEST 2022
+Ordered: 
+	Menu 3  206$
+Total: 206$
+
+ID:11, Client:6, Date: Wed May 18 17:16:49 EEST 2022
+Ordered: 
+	Beef Stock   96$
+	Beef Stock   61$
+Total: 157$
+
+ID:12, Client:6, Date: Wed May 18 17:16:52 EEST 2022
+Ordered: 
+	Beef Stock   96$
+	Beef Stock   61$
+Total: 157$
+
+ID:13, Client:6, Date: Wed May 18 17:17:24 EEST 2022
+Ordered: 
+	Beef Satay   27$
+	Beef Satay   75$
+	Beef and Broccoli Wontons with Ginger Dipping Sauce   30$
+	Roast Beef Stock   100$
+Total: 232$

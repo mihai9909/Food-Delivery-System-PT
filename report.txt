@@ -1,0 +1,85 @@
+Orders between hours 0 and 24:
+	ID:4 Wed May 18 00:17:41 EEST 2022 Client ID:10
+	ID:1 Wed May 18 00:17:19 EEST 2022 Client ID:10
+	ID:3 Wed May 18 00:17:31 EEST 2022 Client ID:10
+	ID:5 Wed May 18 00:17:43 EEST 2022 Client ID:10
+	ID:9 Wed May 18 15:32:32 EEST 2022 Client ID:6
+	ID:6 Wed May 18 00:17:45 EEST 2022 Client ID:10
+	ID:8 Wed May 18 00:18:41 EEST 2022 Client ID:7
+	ID:2 Wed May 18 00:17:23 EEST 2022 Client ID:10
+	ID:7 Wed May 18 00:18:18 EEST 2022 Client ID:6
+
+Orders between hours 14 and 16:
+	ID:9 Wed May 18 15:32:32 EEST 2022 Client ID:6
+
+Products ordered more than 0 times:
+	Barbecued Shrimp 
+	Cilantro-Tomato Salsa 
+	Cauliflower-Leek Purée 
+	Red and Green Tomato Salsa 
+	The Original Three-Ingredient Rub 
+	Cilantro-Tomato Salsa 
+	Shrimp Sates with Spiced Pistachio Chutney 
+	Coriander-Herb Spice Rub 
+	Arugula Salad with Heirloom Tomatoes and Red Onion 
+	Beef Stock 
+	Beef Stock 
+	"Endive ""Spoons"" with Lemon-Herb Goat Cheese "
+	Toasted Corn Crisps 
+	Turkey Stock 
+	Anchovy Toasts 
+	Chicken Stock 
+	Almond Dacquoise with Strawberry Ice Cream 
+	Dairy-Free Lemon Crèmes With Oat-Thyme Crumble 
+	Orange Date-Nut Diamonds 
+
+The clients that have ordered more than 1 times and the value of the order was higher than 10 are:
+	10
+	6
+	7
+
+Products ordered on day 18 are:
+	Shrimp Sates with Spiced Pistachio Chutney  4
+	Coriander-Herb Spice Rub  4
+	Arugula Salad with Heirloom Tomatoes and Red Onion  5
+	Barbecued Shrimp  3
+	Cilantro-Tomato Salsa  3
+	Cauliflower-Leek Purée  3
+	Beef Stock  2
+	"Endive ""Spoons"" with Lemon-Herb Goat Cheese " 2
+	Toasted Corn Crisps  1
+	Red and Green Tomato Salsa  1
+	The Original Three-Ingredient Rub  1
+	Cilantro-Tomato Salsa  1
+	Almond Dacquoise with Strawberry Ice Cream  1
+	Dairy-Free Lemon Crèmes With Oat-Thyme Crumble  1
+	Orange Date-Nut Diamonds  1
+	Beef Stock  1
+	Turkey Stock  1
+	Anchovy Toasts  1
+	Chicken Stock  1
+
+Orders between hours 0 and 25:
+	ID:4 Wed May 18 00:17:41 EEST 2022 Client ID:10
+	ID:1 Wed May 18 00:17:19 EEST 2022 Client ID:10
+	ID:3 Wed May 18 00:17:31 EEST 2022 Client ID:10
+	ID:5 Wed May 18 00:17:43 EEST 2022 Client ID:10
+	ID:9 Wed May 18 15:32:32 EEST 2022 Client ID:6
+	ID:6 Wed May 18 00:17:45 EEST 2022 Client ID:10
+	ID:10 Wed May 18 16:02:09 EEST 2022 Client ID:6
+	ID:8 Wed May 18 00:18:41 EEST 2022 Client ID:7
+	ID:2 Wed May 18 00:17:23 EEST 2022 Client ID:10
+	ID:7 Wed May 18 00:18:18 EEST 2022 Client ID:6
+
+Orders between hours 0 and 25:
+	ID:4 Wed May 18 00:17:41 EEST 2022 Client ID:10
+	ID:1 Wed May 18 00:17:19 EEST 2022 Client ID:10
+	ID:3 Wed May 18 00:17:31 EEST 2022 Client ID:10
+	ID:5 Wed May 18 00:17:43 EEST 2022 Client ID:10
+	ID:9 Wed May 18 15:32:32 EEST 2022 Client ID:6
+	ID:6 Wed May 18 00:17:45 EEST 2022 Client ID:10
+	ID:10 Wed May 18 16:02:09 EEST 2022 Client ID:6
+	ID:8 Wed May 18 00:18:41 EEST 2022 Client ID:7
+	ID:2 Wed May 18 00:17:23 EEST 2022 Client ID:10
+	ID:7 Wed May 18 00:18:18 EEST 2022 Client ID:6
+
